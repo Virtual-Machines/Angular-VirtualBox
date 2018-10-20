@@ -10,3 +10,5 @@
 - Visual Studio Code
 - Git
 - Import OVA on VirtualBox using "File -> Import Appliance (or Control + I)"
+
+![Angular](https://github.com/Virtual-Machines/Angular-VirtualBox/blob/master/Angular.png)
