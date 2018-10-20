@@ -1,4 +1,4 @@
-# Angular VirtualBox
+# Angular VirtualBox [DOWNLOAD](https://github.com/Virtual-Machines/Angular-VirtualBox/releases/download/latest/Angular.ova)
 
 - Minimal Lubuntu 18.04.1 as a lightweight base
 - VirtualBox Guest Additions (bidirectional clipboard between host and guest, shared folders capable)
