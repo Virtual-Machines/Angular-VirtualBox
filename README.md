@@ -6,7 +6,7 @@
 - Chromium browser with Angular.io website bookmark
 - npm (Nodejs included)
 - Angular CLI globally installed: npm install -g @angular/cli
-- NAT port forwarding configured on 4200 that allows web browser testing outside virtual machine using 
+- NAT port forwarding configured on 4200 that allows web browser testing outside virtual machine using the command
 "ng serve --host 0.0.0.0" 
 - Visual Studio Code
 - Git
