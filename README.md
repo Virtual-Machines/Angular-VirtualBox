@@ -7,7 +7,7 @@
 - npm (Nodejs included)
 - Angular CLI globally installed: npm install -g @angular/cli
 - NAT port forwarding configured on 4200 that allows web browser testing outside virtual machine executing this command:
-"ng serve --host 0.0.0.0"
+ng serve --host 0.0.0.0
 - Visual Studio Code
 - Git
 - Import OVA on VirtualBox using "File -> Import Appliance (or Control + I)"
