@@ -1,7 +1,7 @@
 # Angular VirtualBox [DOWNLOAD](https://github.com/Virtual-Machines/Angular-VirtualBox/releases/download/latest/Angular.ova)
 
 - Minimal Lubuntu 18.04.1 as a lightweight base
-- VirtualBox Guest Additions (bidirectional clipboard between host and guest, shared folders capable)
+- VirtualBox Guest Additions (bidirectional clipboard between host and guest, shared folders capable, Seamless Mode...)
 - Basic python http server included. Example: python3 -m http.server 4200
 - Chromium browser with Angular.io website bookmark
 - npm (Nodejs included)
