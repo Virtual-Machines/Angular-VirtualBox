@@ -14,6 +14,8 @@ ng serve --host 0.0.0.0
 - Git
 - Import OVA on VirtualBox using "File -> Import Appliance (or Control + I)"
 
+![Desktop](https://github.com/Virtual-Machines/Angular-VirtualBox/blob/master/desktop.png)
 ![Angular](https://github.com/Virtual-Machines/Angular-VirtualBox/blob/master/Angular.png)
 ![Angular CLI version](https://github.com/Virtual-Machines/Angular-VirtualBox/blob/master/AngularCLI.png)
 ![Visual Studio Code](https://github.com/Virtual-Machines/Angular-VirtualBox/blob/master/code.png)
+![MyApp](https://github.com/Virtual-Machines/Angular-VirtualBox/blob/master/MyApp.png)
