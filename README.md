@@ -6,7 +6,7 @@
 - Chromium browser with Angular.io website and MyApp (localhost:4200) bookmarks
 - npm (Nodejs included)
 - Angular CLI globally installed (Angular 7): npm install -g @angular/cli
-- Sample project (my-app) created with: ng new my-app
+- Includes a sample project (my-app) created with: ng new my-app
 - commands.txt: Useful general and Angular CLI commands
 - NAT port forwarding configured on 4200 that allows web browser testing outside virtual machine executing this command:
 ng serve --host 0.0.0.0
