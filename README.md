@@ -5,7 +5,7 @@
 - Basic python http server included. Example: python3 -m http.server 4200
 - Chromium browser with Angular.io website bookmark
 - npm (Nodejs included)
-- Angular CLI globally installed: npm install -g @angular/cli
+- Angular CLI globally installed (Angular 7): npm install -g @angular/cli
 - NAT port forwarding configured on 4200 that allows web browser testing outside virtual machine executing this command:
 ng serve --host 0.0.0.0
 - Visual Studio Code
