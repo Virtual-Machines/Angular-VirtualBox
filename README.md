@@ -3,7 +3,9 @@
 - Minimal Lubuntu 18.04.1 as a lightweight base (lubuntu-core package)
 - VirtualBox Guest Additions (bidirectional clipboard between host and guest, shared folders capable, Seamless Mode...)
 - Basic python http server included. Example: python3 -m http.server 4200
+- StackBlitz, the online IDE, as webapp: https://stackblitz.com/fork/angular
 - Chromium browser with Angular.io website and MyApp (localhost:4200) bookmarks
+- Examples bookmark: https://github.com/Apress/pro-angular-6
 - npm (Nodejs included)
 - Angular CLI globally installed (Angular 7): npm install -g @angular/cli
 - Includes a sample project (my-app) created with: ng new my-app
