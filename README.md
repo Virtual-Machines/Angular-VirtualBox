@@ -23,3 +23,4 @@ ng serve --host 0.0.0.0
 ![Visual Studio Code](https://github.com/Virtual-Machines/Angular-VirtualBox/blob/master/code.png)
 ![MyApp](https://github.com/Virtual-Machines/Angular-VirtualBox/blob/master/MyApp.png)
 ![Debugger](https://github.com/Virtual-Machines/Angular-VirtualBox/blob/master/debugger.png)
+![LaunchJSON](https://github.com/Virtual-Machines/Angular-VirtualBox/blob/master/launchJSON.png)
