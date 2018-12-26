@@ -6,7 +6,8 @@
 - StackBlitz, the online IDE, as webapp: https://stackblitz.com/fork/angular
 - Chromium browser with Angular.io website and MyApp (localhost:4200) bookmarks
 - Examples bookmark: https://github.com/Apress/pro-angular-6
-- Chrome Debugger extension configured with Chromium browser 
+- Chrome Debugger extension configured with Chromium browser
+- Visual Studio Code + Angular tutorial as bookmark: https://code.visualstudio.com/docs/nodejs/angular-tutorial
 - npm (Nodejs included)
 - Angular CLI globally installed (Angular 7): npm install -g @angular/cli
 - Includes a sample project (my-app) created with: ng new my-app
