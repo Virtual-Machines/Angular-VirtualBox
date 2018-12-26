@@ -6,7 +6,6 @@
 - StackBlitz, the online IDE, as webapp: https://stackblitz.com/fork/angular
 - Chromium browser with Angular.io website and MyApp (localhost:4200) bookmarks
 - Examples bookmark: https://github.com/Apress/pro-angular-6
-- Chrome Debugger extension configured with Chromium browser (see launch.json)
 - Visual Studio Code + Angular tutorial as bookmark: https://code.visualstudio.com/docs/nodejs/angular-tutorial
 - npm (Nodejs included)
 - Angular CLI globally installed (Angular 7): npm install -g @angular/cli
@@ -15,6 +14,7 @@
 - NAT port forwarding configured on 4200 that allows web browser testing outside virtual machine executing this command:
 ng serve --host 0.0.0.0
 - Visual Studio Code with the sample project (my-app) opened
+- Chrome Debugger extension configured with Chromium browser (see launch.json)
 - Git
 - Import OVA on VirtualBox using "File -> Import Appliance (or Control + I)"
 
