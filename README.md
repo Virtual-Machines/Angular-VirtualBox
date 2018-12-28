@@ -14,8 +14,8 @@
 - NAT port forwarding configured on 4200 that allows web browser testing outside virtual machine executing this command:
 ng serve --host 0.0.0.0
 - Visual Studio Code with the sample project (my-app) opened
-- Chrome Debugger extension configured with Chromium browser (see launch.json)
-- TSLint code analyser
+- Chrome Debugger extension configured with Chromium browser (see launch.json): https://marketplace.visualstudio.com/items?itemName=msjsdiag.debugger-for-chrome
+- TSLint code analyser: https://marketplace.visualstudio.com/items?itemName=ms-vscode.vscode-typescript-tslint-plugin
 - Git
 - Import OVA on VirtualBox using "File -> Import Appliance (or Control + I)"
 
