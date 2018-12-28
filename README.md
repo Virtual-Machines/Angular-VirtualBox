@@ -15,6 +15,7 @@
 ng serve --host 0.0.0.0
 - Visual Studio Code with the sample project (my-app) opened
 - Chrome Debugger extension configured with Chromium browser (see launch.json)
+- TSLint code analyser
 - Git
 - Import OVA on VirtualBox using "File -> Import Appliance (or Control + I)"
 
@@ -25,3 +26,4 @@ ng serve --host 0.0.0.0
 ![MyApp](https://github.com/Virtual-Machines/Angular-VirtualBox/blob/master/MyApp.png)
 ![Debugger](https://github.com/Virtual-Machines/Angular-VirtualBox/blob/master/debugger.png)
 ![LaunchJSON](https://github.com/Virtual-Machines/Angular-VirtualBox/blob/master/launchJSON.png)
+![TSLint](https://github.com/Virtual-Machines/Angular-VirtualBox/blob/master/TSLint.png)
