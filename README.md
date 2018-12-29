@@ -27,3 +27,5 @@ ng serve --host 0.0.0.0
 ![Debugger](https://github.com/Virtual-Machines/Angular-VirtualBox/blob/master/debugger.png)
 ![LaunchJSON](https://github.com/Virtual-Machines/Angular-VirtualBox/blob/master/launchJSON.png)
 ![TSLint](https://github.com/Virtual-Machines/Angular-VirtualBox/blob/master/TSLint.png)
+
+[**OPINION**](https://docs.google.com/forms/d/1FHgWDZyQsE8-zDAmjBC0LPR09UpYkPNhy0g67J84Rog)
