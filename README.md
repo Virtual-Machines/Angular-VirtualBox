@@ -17,6 +17,7 @@ ng serve --host 0.0.0.0
 - Chrome Debugger https://marketplace.visualstudio.com/items?itemName=msjsdiag.debugger-for-chrome Extension configured with Chromium browser (see launch.json)
 - TSLint code analyser: https://marketplace.visualstudio.com/items?itemName=ms-vscode.vscode-typescript-tslint-plugin
 - Git
+- User and pass of system is the same: lubuntu
 - Import OVA on VirtualBox using "File -> Import Appliance (or Control + I)"
 
 [**OPINION**](https://docs.google.com/forms/d/e/1FAIpQLSeOzXN-TMbwxt_k3jHCQjwoEbP9o5nP6wJeJFa0_w0exYjTnw/viewform?usp=sf_link)
