@@ -22,7 +22,7 @@ ng serve --host 0.0.0.0
 
 [**OPINION**](https://docs.google.com/forms/d/e/1FAIpQLSeOzXN-TMbwxt_k3jHCQjwoEbP9o5nP6wJeJFa0_w0exYjTnw/viewform?usp=sf_link)
 
-**GALLERY**
+# GALLERY
 
 ![Desktop](https://github.com/Virtual-Machines/Angular-VirtualBox/blob/master/desktop.png)
 ![StackBlitz](https://github.com/Virtual-Machines/Angular-VirtualBox/blob/master/StackBlitz.png)
