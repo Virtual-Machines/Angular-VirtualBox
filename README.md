@@ -1,6 +1,6 @@
 # Angular VirtualBox [DOWNLOAD](https://github.com/Virtual-Machines/Angular-VirtualBox/releases/download/latest/Angular.ova) - [VIDEO](https://www.youtube.com/watch?v=cHiH5mOvP-Y)
 
-- Minimal Lubuntu 18.04.1 as a lightweight base (lubuntu-core package)
+- Minimal Lubuntu 18.04.2 as a lightweight base (lubuntu-core package)
 - VirtualBox Guest Additions (bidirectional clipboard between host and guest, shared folders capable, Seamless Mode...)
 - Basic python http server included. Example: python3 -m http.server 4200
 - StackBlitz, the online IDE, as webapp: https://stackblitz.com/fork/angular
@@ -8,7 +8,7 @@
 - Examples bookmark: https://github.com/Apress/pro-angular-6
 - Visual Studio Code + Angular tutorial as bookmark: https://code.visualstudio.com/docs/nodejs/angular-tutorial
 - npm (Nodejs included)
-- Angular CLI globally installed (Angular 7.3): npm install -g @angular/cli
+- Angular CLI globally installed (Angular 7.3.1): npm install -g @angular/cli
 - Includes a sample project (my-app) created with: ng new my-app
 - commands.txt: Useful general and Angular CLI commands
 - NAT port forwarding configured on 4200 that allows web browser testing outside virtual machine executing this command:
