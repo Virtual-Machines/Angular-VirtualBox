@@ -25,11 +25,11 @@ ng serve --host 0.0.0.0
 
 # GALLERY
 
-![Desktop](https://github.com/Virtual-Machines/Angular-VirtualBox/blob/master/desktop.png)
-![StackBlitz](https://github.com/Virtual-Machines/Angular-VirtualBox/blob/master/StackBlitz.png)
-![Angular](https://github.com/Virtual-Machines/Angular-VirtualBox/blob/master/Angular.png)
-![Visual Studio Code](https://github.com/Virtual-Machines/Angular-VirtualBox/blob/master/code.png)
-![MyApp](https://github.com/Virtual-Machines/Angular-VirtualBox/blob/master/MyApp.png)
-![Debugger](https://github.com/Virtual-Machines/Angular-VirtualBox/blob/master/debugger.png)
-![LaunchJSON](https://github.com/Virtual-Machines/Angular-VirtualBox/blob/master/launchJSON.png)
-![TSLint](https://github.com/Virtual-Machines/Angular-VirtualBox/blob/master/TSLint.png)
+![Desktop](https://raw.githubusercontent.com/Virtual-Machines/Angular-VirtualBox/master/desktop.png)
+![StackBlitz](https://raw.githubusercontent.com/Virtual-Machines/Angular-VirtualBox/master/StackBlitz.png)
+![Angular](https://raw.githubusercontent.com/Virtual-Machines/Angular-VirtualBox/master/Angular.png)
+![Visual Studio Code](https://raw.githubusercontent.com/Virtual-Machines/Angular-VirtualBox/master/code.png)
+![MyApp](https://raw.githubusercontent.com/Virtual-Machines/Angular-VirtualBox/master/MyApp.png)
+![Debugger](https://raw.githubusercontent.com/Virtual-Machines/Angular-VirtualBox/master/debugger.png)
+![LaunchJSON](https://raw.githubusercontent.com/Virtual-Machines/Angular-VirtualBox/master/launchJSON.png)
+![TSLint](https://raw.githubusercontent.com/Virtual-Machines/Angular-VirtualBox/master/TSLint.png)
