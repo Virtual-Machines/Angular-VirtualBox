@@ -1,5 +1,14 @@
 # Angular VirtualBox [DOWNLOAD](https://github.com/Virtual-Machines/Angular-VirtualBox/releases/download/latest/Angular.ova) - [VIDEO](https://www.youtube.com/watch?v=cHiH5mOvP-Y)
 
+![Desktop](https://raw.githubusercontent.com/Virtual-Machines/Angular-VirtualBox/master/desktop.png)
+![StackBlitz](https://raw.githubusercontent.com/Virtual-Machines/Angular-VirtualBox/master/StackBlitz.png)
+![Angular](https://raw.githubusercontent.com/Virtual-Machines/Angular-VirtualBox/master/Angular.png)
+![Visual Studio Code](https://raw.githubusercontent.com/Virtual-Machines/Angular-VirtualBox/master/code.png)
+![MyApp](https://raw.githubusercontent.com/Virtual-Machines/Angular-VirtualBox/master/MyApp.png)
+![Debugger](https://raw.githubusercontent.com/Virtual-Machines/Angular-VirtualBox/master/debugger.png)
+![LaunchJSON](https://raw.githubusercontent.com/Virtual-Machines/Angular-VirtualBox/master/launchJSON.png)
+![TSLint](https://raw.githubusercontent.com/Virtual-Machines/Angular-VirtualBox/master/TSLint.png)
+
 - Minimal Lubuntu 18.04.2 as a lightweight base (lubuntu-core package)
 - Linux Kernel 4.18 HWE (Hardware Enablement)
 - VirtualBox Guest Additions (bidirectional clipboard between host and guest, shared folders capable, Seamless Mode...)
@@ -22,14 +31,3 @@ ng serve --host 0.0.0.0
 - Import OVA on VirtualBox using "File -> Import Appliance (or Control + I)"
 
 [**OPINION**](https://docs.google.com/forms/d/e/1FAIpQLSeOzXN-TMbwxt_k3jHCQjwoEbP9o5nP6wJeJFa0_w0exYjTnw/viewform?usp=sf_link)
-
-# GALLERY
-
-![Desktop](https://raw.githubusercontent.com/Virtual-Machines/Angular-VirtualBox/master/desktop.png)
-![StackBlitz](https://raw.githubusercontent.com/Virtual-Machines/Angular-VirtualBox/master/StackBlitz.png)
-![Angular](https://raw.githubusercontent.com/Virtual-Machines/Angular-VirtualBox/master/Angular.png)
-![Visual Studio Code](https://raw.githubusercontent.com/Virtual-Machines/Angular-VirtualBox/master/code.png)
-![MyApp](https://raw.githubusercontent.com/Virtual-Machines/Angular-VirtualBox/master/MyApp.png)
-![Debugger](https://raw.githubusercontent.com/Virtual-Machines/Angular-VirtualBox/master/debugger.png)
-![LaunchJSON](https://raw.githubusercontent.com/Virtual-Machines/Angular-VirtualBox/master/launchJSON.png)
-![TSLint](https://raw.githubusercontent.com/Virtual-Machines/Angular-VirtualBox/master/TSLint.png)
