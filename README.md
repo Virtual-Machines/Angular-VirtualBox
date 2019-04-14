@@ -1,5 +1,5 @@
 # Angular VirtualBox [DOWNLOAD](https://github.com/Virtual-Machines/Angular-VirtualBox/releases/download/latest/Angular.ova) - [VIDEO](https://www.youtube.com/watch?v=cHiH5mOvP-Y)
-
+Last update: 2019-04-14
 ![Desktop](https://raw.githubusercontent.com/Virtual-Machines/Angular-VirtualBox/master/desktop.png)
 ![StackBlitz](https://raw.githubusercontent.com/Virtual-Machines/Angular-VirtualBox/master/StackBlitz.png)
 ![Angular](https://raw.githubusercontent.com/Virtual-Machines/Angular-VirtualBox/master/Angular.png)
@@ -18,7 +18,7 @@
 - Examples bookmark: https://github.com/Apress/pro-angular-6
 - Visual Studio Code + Angular tutorial as bookmark: https://code.visualstudio.com/docs/nodejs/angular-tutorial
 - npm (Nodejs included)
-- Angular CLI globally installed (Angular 7.3.4): npm install -g @angular/cli
+- Angular CLI globally installed (Angular 7.3.8): npm install -g @angular/cli
 - Includes a sample project (my-app) created with: ng new my-app
 - commands.txt: Useful general and Angular CLI commands
 - NAT port forwarding configured on 4200 that allows web browser testing outside virtual machine executing this command:
