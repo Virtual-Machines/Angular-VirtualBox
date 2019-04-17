@@ -31,4 +31,4 @@ ng serve --host 0.0.0.0
 - User and pass of system is the same: **lubuntu**
 - Import OVA on VirtualBox using "File -> Import Appliance (or Control + I)"
 
-[**OPINION**](https://docs.google.com/forms/d/e/1FAIpQLSeOzXN-TMbwxt_k3jHCQjwoEbP9o5nP6wJeJFa0_w0exYjTnw/viewform?usp=sf_link)
+[**OPINION**](https://github.com/Virtual-Machines/Angular-VirtualBox/issues/1)
