@@ -19,7 +19,7 @@ Last update: 2019-06-09
 - Examples bookmark: https://github.com/Apress/pro-angular-6
 - Visual Studio Code + Angular tutorial as bookmark: https://code.visualstudio.com/docs/nodejs/angular-tutorial
 - npm (Nodejs included)
-- Angular CLI globally installed (Angular 7.3.9): npm install -g @angular/cli
+- Angular CLI globally installed (Angular 8.0.2): npm install -g @angular/cli
 - Includes a sample project (my-app) created with: ng new my-app
 - commands.txt: Useful general and Angular CLI commands
 - NAT port forwarding configured on 4200 that allows web browser testing outside virtual machine executing this command:
