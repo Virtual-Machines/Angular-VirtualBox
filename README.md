@@ -28,7 +28,7 @@ ng serve --host 0.0.0.0
 - Visual Studio Code with the sample project (my-app) opened
 - Chrome Debugger https://marketplace.visualstudio.com/items?itemName=msjsdiag.debugger-for-chrome Extension configured with Chromium browser (see launch.json)
 - TSLint code analyser: https://marketplace.visualstudio.com/items?itemName=ms-vscode.vscode-typescript-tslint-plugin
-- Git
+- Git (command line)
 - User and pass of system is the same: **lubuntu**
 - Import OVA on VirtualBox using "File -> Import Appliance (or Control + I)"
 
