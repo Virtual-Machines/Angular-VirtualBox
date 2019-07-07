@@ -1,6 +1,6 @@
 # Angular VirtualBox [DOWNLOAD](https://github.com/Virtual-Machines/Angular-VirtualBox/releases/download/latest/Angular.ova) - [VIDEO](https://www.youtube.com/watch?v=aUdBecaOeno)
 
-Last update: 2019-06-29
+Last update: 2019-07-07
 
 ![Desktop](https://raw.githubusercontent.com/Virtual-Machines/Angular-VirtualBox/master/desktop.png)
 ![StackBlitz](https://raw.githubusercontent.com/Virtual-Machines/Angular-VirtualBox/master/StackBlitz.png)
@@ -17,7 +17,6 @@ Last update: 2019-06-29
 - Basic python http server included. Example: python3 -m http.server 4200
 - ⚡StackBlitz, the online IDE, as webapp: [https://stackblitz.com/fork/angular](https://stackblitz.com/fork/angular)
 - Chromium browser with Angular.io website and MyApp (localhost:4200) bookmarks
-- Examples bookmark: [https://github.com/Apress/pro-angular-6](https://github.com/Apress/pro-angular-6)
 - Visual Studio Code + Angular tutorial as bookmark: [https://code.visualstudio.com/docs/nodejs/angular-tutorial](https://code.visualstudio.com/docs/nodejs/angular-tutorial)
 - npm (Nodejs included)
 - Angular CLI globally installed (Angular 8.0.2): npm install -g @angular/cli
